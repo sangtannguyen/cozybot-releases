@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.0",
   "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.0/CozyBot-Setup-1.0.0.exe",
   "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "Bản test — giả lập có bản mới để test tính năng Cập nhật.",
+  "notes": ".",
   "release_date": "2026-09-25",
   "min_required": "1.0.0"
 }
