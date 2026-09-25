@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.3",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.3/CozyBot-Setup-1.0.3.exe",
-  "sha256": "461C6BA4B41924728ABB82F8DDF14A59C04920B07199041B52B254E90D49E8D8",
-  "notes": "Fix bug, thêm tính năng Hồi máu Pet",
+  "latest": "1.0.5",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.5/CozyBot-Setup-1.0.5.exe",
+  "sha256": "DBE1BBA408E9426F937F6CE891A577BCFF81F3A3DBC30EC86990551E73A5A715",
+  "notes": "Fix bug, thêm tính năng Hồi máu Pet)",
   "release_date": "2026-09-25",
   "min_required": "1.0.0"
 }
