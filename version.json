@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.8",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.8/CozyBot-Setup-1.0.8.exe",
-  "sha256": "A83ABD39AF54AC045E7E9E4DFD7CDB290AD858125237ADE44C24C46EF29840CB",
-  "notes": "Cải thiện auto pt, tính năng đánh 2 bên, bảo mật",
-  "release_date": "2026-09-28",
-  "min_required": "1.0.0"
+  "latest": "1.0.9",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.9/CozyBot-Setup-1.0.9.exe",
+  "sha256": "E44E4FACC8B309301AFE24199893A6005A497B5FFB46D0B5909F125AD2540F9D",
+  "notes": "Big update",
+  "release_date": "2026-10-10",
+  "min_required": "1.0.8"
 }
