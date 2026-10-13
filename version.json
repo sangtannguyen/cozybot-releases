@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.9",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.9/CozyBot-Setup-1.0.9.exe",
-  "sha256": "7FD39C55E80B90AD83E8ECFDA134B8753E39CE093F0B9C248FBB0E6BF3C26055",
-  "notes": "Big update",
-  "release_date": "2026-10-10",
+  "latest": "1.0.10",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.10/CozyBot-Setup-1.0.10.exe",
+  "sha256": "E926EA379B5D0850BBA8D61074A2E212CB5C43F427A17DF2D2510191F39E0E27",
+  "notes": "Triển khai 1 số biện pháp an toàn",
+  "release_date": "2026-10-13",
   "min_required": "1.0.8"
 }
