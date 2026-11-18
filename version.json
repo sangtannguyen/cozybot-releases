@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.16",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.16/CozyBot-Setup-1.0.16.exe",
-  "sha256": "3A37977FE639A8B899EA217718EE119D3B3D4C195218C31B1EB3BE4F399B71D4",
-  "notes": "Fix bị văng tool đối với các máy đời cũ",
-  "release_date": "2026-11-04",
+  "latest": "1.0.21",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.21/CozyBot-Setup-1.0.21.exe",
+  "sha256": "EB95702633F0A6450B4B2AE177A6785C02043184A352C3B35A99A185EA66370D",
+  "notes": "Update",
+  "release_date": "2026-11-18",
   "min_required": "1.0.0"
 }
