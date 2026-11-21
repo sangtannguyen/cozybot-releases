@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.21",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.21/CozyBot-Setup-1.0.21.exe",
-  "sha256": "EB95702633F0A6450B4B2AE177A6785C02043184A352C3B35A99A185EA66370D",
-  "notes": "Update",
-  "release_date": "2026-11-18",
+  "latest": "1.0.22",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.22/CozyBot-Setup-1.0.22.exe",
+  "sha256": "B9C5313909E9BE5AF91208841D3C852CB5122C91FA67E9D48A35119349632F3B",
+  "notes": "Big update",
+  "release_date": "2026-11-21",
   "min_required": "1.0.0"
 }
