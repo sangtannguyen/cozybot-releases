@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.22",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.22/CozyBot-Setup-1.0.22.exe",
-  "sha256": "B9C5313909E9BE5AF91208841D3C852CB5122C91FA67E9D48A35119349632F3B",
-  "notes": "Big update",
-  "release_date": "2026-11-21",
+  "latest": "1.0.25",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.25/CozyBot-Setup-1.0.25.exe",
+  "sha256": "15B67449083AB21F71F7B9A93FF22D9EE13AA3623C253CD17936BBF6794A00E1",
+  "notes": "Auto đi Raid",
+  "release_date": "2026-11-24",
   "min_required": "1.0.0"
 }
