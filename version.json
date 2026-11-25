@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.25",
-  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.25/CozyBot-Setup-1.0.25.exe",
-  "sha256": "15B67449083AB21F71F7B9A93FF22D9EE13AA3623C253CD17936BBF6794A00E1",
-  "notes": "Auto đi Raid",
-  "release_date": "2026-11-24",
+  "latest": "1.0.26",
+  "url": "https://github.com/sangtannguyen/cozybot-releases/releases/download/v1.0.26/CozyBot-Setup-1.0.26.exe",
+  "sha256": "9B7804FED0902D3322780FFE3671BD47BFB4FFA5CCD0CA7632ACA9239C2875AC",
+  "notes": "Update Chế độ Lure",
+  "release_date": "2026-11-25",
   "min_required": "1.0.0"
 }
